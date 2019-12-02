@@ -2,10 +2,12 @@
 
 Aplicación desarrollada en Ionic Angular, con el fin de disponer de un control de tareas por hacer. Cada tarea posee un checklist, el cual una vez completado, la tarea se da por completada y pasa a la pestaña "Terminadas", utilizando el Modulo Storage de Ionic para la permanencia de los datos.
 
-<img style="display: block;" src="capturas/foto1.jpg" width="150">
-<img style="display: block;" src="capturas/foto2.jpg" width="150">
-<img style="display: block;" src="capturas/foto3.jpg" width="150">
-<img style="display: block;" src="capturas/foto4.jpg" width="150">
+<p float="left">
+    <img src="capturas/foto1.jpg" width="150">
+    <img  src="capturas/foto2.jpg" width="150">
+    <img  src="capturas/foto3.jpg" width="150">
+    <img  src="capturas/foto4.jpg" width="150">
+</p>
 
 ## Instalación
 
